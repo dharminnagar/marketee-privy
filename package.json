@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@privy-io/react-auth": "^2.22.0",
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.542.0",
